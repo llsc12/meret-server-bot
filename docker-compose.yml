@@ -1,0 +1,4 @@
+services:
+    # Rename this to whatever your app is called, it can be whatever.
+    ddbkit-template:
+        build: .
